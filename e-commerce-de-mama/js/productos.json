@@ -1,0 +1,1015 @@
+[
+    {
+        "id": "Galletitas-01",
+        "titulo": "Coquitos",
+        "imagen": "./img/galletitas/01.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Galletitas-02",
+        "titulo": "Coco",
+        "imagen": "./img/galletitas/02.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "chocolates-01",
+        "titulo": "Cofler Air Blanco",
+        "imagen": "./img/chocolates/01.webp",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-02",
+        "titulo": "Hamlet Blanco",
+        "imagen": "./img/chocolates/02.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-03",
+        "titulo": "Hamlet Leche",
+        "imagen": "./img/chocolates/03.png",
+        "categoria": {
+            "nombre": "chocolate",
+            "id": "chocolate"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-04",
+        "titulo": "Hamlet Frutilla",
+        "imagen": "./img/chocolates/04.jpg"    ,
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-05",
+        "titulo": "Arcor chocolate leche y mani",
+        "imagen": "./img/chocolates/05.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-06",
+        "titulo": "Arcor chocolate Blanco",
+        "imagen": "./img/chocolates/06.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-07",
+        "titulo": "Arcor Chocolate con leche",
+        "imagen": "./img/chocolates/07.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cereales-01",
+        "titulo": "Cereal fort",
+        "imagen": "./img/cereales/01.jpg",
+        "categoria": {
+            "nombre": "cereales",
+            "id": "cereales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Galletitas-03",
+        "titulo": "Trio Floritas",
+        "imagen": "./img/galletitas/03.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-01",
+        "titulo": "Tofi Negro ",
+        "imagen": "./img/alfajor/01.jpg",
+        "categoria": {
+            "nombre": "alfajor ",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-02",
+        "titulo": "Tofi Negro x3 ",
+        "imagen": "./img/alfajor/02.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-03",
+        "titulo": "Alfajor Capitan Fruta",
+        "imagen": "./img/alfajor/03.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-04",
+        "titulo": "Alfjor.Bagley Blanco",
+        "imagen": "./img/alfajor/04.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    } ,
+    {
+        "id": "alfajor-05",
+        "titulo": "Alfjor.Bagley Negro",
+        "imagen": "./img/alfajor/05.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    } ,
+    {
+        "id": "alfajor-06",
+        "titulo": "Alfjor.Bagley Blanco x3",
+        "imagen": "./img/alfajor/06.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    } ,
+    {
+        "id": "alfajor-07",
+        "titulo": "Alfjor.Bagley Negro x3",
+        "imagen": "./img/alfajor/07.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    } ,
+    {
+        "id": "alfajor-08",
+        "titulo": "Alfajor Capitan Blanco",
+        "imagen": "./img/alfajor/08.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-09",
+        "titulo": "Alfajor Capitan Negro",
+        "imagen": "./img/alfajor/09.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-10",
+        "titulo": "Alfjor Capitan Negro x3",
+        "imagen": "./img/alfajor/10.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Galletitas-04",
+        "titulo": "Coquitos",
+        "imagen": "./img/galletitas/04.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-08",
+        "titulo": "Cofler Air TOFI",
+        "imagen": "./img/chocolates/08.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-09",
+        "titulo": "Cofler Air Bonobon",
+        "imagen": "./img/chocolates/09.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-10",
+        "titulo": "Cofler Air  Almendrado",
+        "imagen": "./img/chocolates/10.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cereales-02",
+        "titulo": "Turron Arcor",
+        "imagen": "./img/cereales/02.png",
+        "categoria": {
+            "nombre": "cereales",
+            "id": "cereales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cereales-03",
+        "titulo": "Cereal Fort Frutilla",
+        "imagen": "./img/cereales/03.jpg",
+        "categoria": {
+            "nombre": "cereales",
+            "id": "cereales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-11",
+        "titulo": "Alfajor Jorgelin Negro",
+        "imagen": "./img/alfajor/11.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-12",
+        "titulo": "Alfajor Jorgelin Glaciado",
+        "imagen": "./img/alfajor/12.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-11",
+        "titulo": "Misky",
+        "imagen": "./img/chocolates/11.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-13",
+        "titulo": "Alfajor Vauquita de Arroz Mousse Vain Con Baño Frutilla",
+        "imagen": "./img/alfajor/13.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-14",
+        "titulo": "Choco Arroz Frutilla",
+        "imagen": "./img/alfajor/14.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "salados-01",
+        "titulo": "Palitos salados TUNKI",
+        "imagen": "./img/salados/01.jpg",
+        "categoria": {
+            "nombre": "salados",
+            "id": "salados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-15",
+        "titulo": "Alfajor Jorgito Galceado Dulce de leche",
+        "imagen": "./img/alfajor/15.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-16",
+        "titulo": "Alfajor Vauquita Arroz Limon",
+        "imagen": "./img/alfajor/16.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Galletitas-05",
+        "titulo": "Capullitos Maiz ",
+        "imagen": "./img/galletitas/05.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Galletitas-06",
+        "titulo": "trio Pepas Chocotrio",
+        "imagen": "./img/galletitas/06.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-17",
+        "titulo": "Alfajor Choco Arroz D/Leche",
+        "imagen": "./img/alfajor/17.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-18",
+        "titulo": "Alfajor Bon-O-Bon Negro",
+        "imagen": "./img/alfajor/18.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "alfajor-19",
+        "titulo": "Alfajor Bon-O-Bon Negro x3",
+        "imagen": "./img/alfajor/19.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "chocolates-12",
+        "titulo": "Rhodesia",
+        "imagen": "./img/chocolates/12.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "caramelos-01",
+        "titulo": "Sugus 8/unidades",
+        "imagen": "./img/caramelos/01.jpg",
+        "categoria": {
+            "nombre": "caramelos",
+            "id": "caramelos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-20",
+        "titulo": "Alfajor Milka torta Oreo",
+        "imagen": "./img/alfajor/20.jpg",
+        "categoria": {
+            "nombre": "alfajor ",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-21",
+        "titulo": "Alfajor Oreo Trilogia x3",
+        "imagen": "./img/alfajor/21.jpg",
+        "categoria": {
+            "nombre": "alfajor ",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-22",
+        "titulo": "Alfajor pepito x3",
+        "imagen": "./img/alfajor/22.jpg",
+        "categoria": {
+            "nombre": "alfajor ",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-23",
+        "titulo": "Alfajor Milka Triple x3 Dulce de leche",
+        "imagen": "./img/alfajor/23.jpg",
+        "categoria": {
+            "nombre": "alfajor ",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-24",
+        "titulo": "Alfajor Milka Triple x3 Mousse",
+        "imagen": "./img/alfajor/24.jpg",
+        "categoria": {
+            "nombre": "alfajor ",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-25",
+        "titulo": "Alfajor Milka Triple x3 Blanco",
+        "imagen": "./img/alfajor/25.jpg",
+        "categoria": {
+            "nombre": "alfajor ",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-13",
+        "titulo": "Graffiti Blanco",
+        "imagen": "./img/chocolates/13.png",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 200
+    },
+    {
+        "id": "caramelos-02",
+        "titulo": "Mogul anillos 10/unidades",
+        "imagen": "./img/caramelos/02.jpg",
+        "categoria": {
+            "nombre": "caramelos",
+            "id": "caramelos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-14",
+        "titulo": "Graffiti chocolate",
+        "imagen": "./img/chocolates/14.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 300
+    },
+    {
+        "id": "chocolates-15",
+        "titulo": "Arcor Oblea Bon o Bon Blanco",
+        "imagen": "./img/chocolates/15.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 300
+    },
+    {
+        "id": "chocolates-16",
+        "titulo": "Arcor Oblea Bon o Bon",
+        "imagen": "./img/chocolates/16.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 300
+    },
+    {
+        "id": "chocolates-16",
+        "titulo": "Arcor Oblea Bon o Bon",
+        "imagen": "./img/chocolates/16.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 300
+    },
+    {
+        "id": "chocolates-17",
+        "titulo": "Arcor Oblea  XL Bon o Bon",
+        "imagen": "./img/chocolates/17.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 300
+    },
+    {
+        "id": "caramelos-03",
+        "titulo": "Arcor Caramelos Frutales 6/unidades",
+        "imagen": "./img/caramelos/03.jpg",
+        "categoria": {
+            "nombre": "caramelos",
+            "id": "caramelos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chicles-01",
+        "titulo": "Chicles Top Line Seven Freezing Menthol  por unidades",
+        "imagen": "./img/chicles/01.jpg",
+        "categoria": {
+            "nombre": "chicles",
+            "id": "chicles"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chicles-02",
+        "titulo": "Chicles Top Line Seven X-Plosive Mint  por unidades",
+        "imagen": "./img/chicles/02.jpg",
+        "categoria": {
+            "nombre": "chicles",
+            "id": "chicles"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chicles-03",
+        "titulo": "Chicles Top Line Seven Sandia  por unidades",
+        "imagen": "./img/chicles/03.jpg",
+        "categoria": {
+            "nombre": "chicles",
+            "id": "chicles"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chicles-04",
+        "titulo": "Chicles Top Line Seven Mandarine  por unidades",
+        "imagen": "./img/chicles/04.jpg",
+        "categoria": {
+            "nombre": "chicles",
+            "id": "chicles"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chicles-05",
+        "titulo": "Chicles Top Line Seven Atomic Strong X-Bombs  por unidades",
+        "imagen": "./img/chicles/05.jpg",
+        "categoria": {
+            "nombre": "chicles",
+            "id": "chicles"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chicles-06",
+        "titulo": "Chicles Top Line Seven Strawberry por unidades",
+        "imagen": "./img/chicles/06.jpg",
+        "categoria": {
+            "nombre": "chicles",
+            "id": "chicles"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-26",
+        "titulo": "Alfajor Aguila Mini Torta Coco",
+        "imagen": "./img/alfajor/26.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-27",
+        "titulo": "Alfajor Toddy",
+        "imagen": "./img/alfajor/27.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-28",
+        "titulo": "Alfajor Aguila Mini torta Clasica",
+        "imagen": "./img/alfajor/28.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-29",
+        "titulo": "Alfajor Aguila Mini torta Chocolate Blanco",
+        "imagen": "./img/alfajor/29.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-30",
+        "titulo": "Alfajor Aguila Mini torta dulce de leche y Brownie",
+        "imagen": "./img/alfajor/30.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-07",
+        "titulo": "Milka Mousse",
+        "imagen": "./img/galletitas/07.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-31",
+        "titulo": "Alfajor Tofi Blanco",
+        "imagen": "./img/alfajor/31.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-08",
+        "titulo": "9 de Oro",
+        "imagen": "./img/galletitas/08.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "salados-04",
+        "titulo": "Rex Original",
+        "imagen": "./img/salados/04.jpg",
+        "categoria": {
+            "nombre": "salados",
+            "id": "salados"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-10",
+        "titulo": "Oreo Clasico",
+        "imagen": "./img/galletitas/10.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-18",
+        "titulo": "Hamlet Chocolatoso",
+        "imagen": "./img/chocolates/18.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-11",
+        "titulo": "9 de Oro con Salvado",
+        "imagen": "./img/galletitas/11.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-19",
+        "titulo": "Hamlet Leche",
+        "imagen": "./img/chocolates/19.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-20",
+        "titulo": "Hamlet Mixto",
+        "imagen": "./img/chocolates/20.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-32",
+        "titulo": "Alfajor Barcelona Negro",
+        "imagen": "./img/alfajor/32.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "alfajor-33",
+        "titulo": "Alfajor Barcelona Blanco",
+        "imagen": "./img/alfajor/33.jpg",
+        "categoria": {
+            "nombre": "alfajor",
+            "id": "alfajor"
+        },
+        "precio": 200
+    },
+    {
+        "id": "tostadas-01",
+        "titulo": "Tosti Clasico",
+        "imagen": "./img/tostadas/01.jpg",
+        "categoria": {
+            "nombre": "tostadas",
+            "id": "tostadas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "tostadas-02",
+        "titulo": "Tosti light",
+        "imagen": "./img/tostadas/02.jpg",
+        "categoria": {
+            "nombre": "tostadas",
+            "id": "tostadas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "tostadas-03",
+        "titulo": "Tosti Dulces",
+        "imagen": "./img/tostadas/03.jpg",
+        "categoria": {
+            "nombre": "tostadas",
+            "id": "tostadas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-12",
+        "titulo": "Trio Oskito",
+        "imagen": "./img/galletitas/12.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-21",
+        "titulo": "Arcor Chocolate 50% Coco",
+        "imagen": "./img/chocolates/21.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-22",
+        "titulo": "Bon o Bon Dark por Unidad",
+        "imagen": "./img/chocolates/22.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 200
+    },
+    {
+        "id": "caramelos-04",
+        "titulo": "CAramelos de Miel & Menta 6/Unidades",
+        "imagen": "./img/caramelos/04.jpg",
+        "categoria": {
+            "nombre": "caramelos",
+            "id": "caramelos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "caramelos-05",
+        "titulo": "Arcor Caramelos Gajos Frutales  6/Unidades",
+        "imagen": "./img/caramelos/05.jpg",
+        "categoria": {
+            "nombre": "caramelos",
+            "id": "caramelos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-13",
+        "titulo": "Pepas Futuro",
+        "imagen": "./img/galletitas/13.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-14",
+        "titulo": "Pepas Alemanas",
+        "imagen": "./img/galletitas/14.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-15",
+        "titulo": "Pepas mini Futuro",
+        "imagen": "./img/galletitas/15.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "chocolates-23",
+        "titulo": "Hamblet Yogurt",
+        "imagen": "./img/chocolates/23.jpg",
+        "categoria": {
+            "nombre": "chocolates",
+            "id": "chocolates"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-16",
+        "titulo": "Cereal Bagley Salvado",
+        "imagen": "./img/galletitas/16.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-17",
+        "titulo": "Cereal Bagley sin sal",
+        "imagen": "./img/galletitas/17.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "tostadas-04",
+        "titulo": "Tosti talitas sabor Pizza",
+        "imagen": "./img/tostadas/04.jpg",
+        "categoria": {
+            "nombre": "tostadas",
+            "id": "tostadas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-18",
+        "titulo": "Vainitas",
+        "imagen": "./img/galletitas/18.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "caramelos-06",
+        "titulo": "Lipo Super Acidos 8/unidades",
+        "imagen": "./img/caramelos/06.jpg",
+        "categoria": {
+            "nombre": "caramelos",
+            "id": "caramelos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "caramelos-07",
+        "titulo": "Gomitas Jelly Roll Misky 10/unidades",
+        "imagen": "./img/caramelos/07.jpg",
+        "categoria": {
+            "nombre": "caramelos",
+            "id": "caramelos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "Galletitas-19",
+        "titulo": "Cerealitas Clasicas",
+        "imagen": "./img/galletitas/19.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-20",
+        "titulo": "Cerealitas Salvado",
+        "imagen": "./img/galletitas/20.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Galletitas-21",
+        "titulo": "Cereales Bagley con Arroz",
+        "imagen": "./img/galletitas/21.jpg",
+        "categoria": {
+            "nombre": "Galletitas",
+            "id": "Galletitas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "salados-02",
+        "titulo": "Capullitos  Larguitos",
+        "imagen": "./img/salados/02.jpg",
+        "categoria": {
+            "nombre": "salados",
+            "id": "salados"
+        },
+        "precio": 200
+    },
+    {
+        "id": "salados-03",
+        "titulo": "Capullitos pizzitos",
+        "imagen": "./img/salados/03.jpg",
+        "categoria": {
+            "nombre": "salados",
+            "id": "salados"
+        },
+        "precio": 200
+    }
+    
+
+]
